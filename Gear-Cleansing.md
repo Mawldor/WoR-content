@@ -19,13 +19,13 @@ Personally, any piece that seems like it could be useful gets rolled to +8, you 
 
 ## First step
 
-![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/257616b5-9d11-4e50-a439-55159f8be021)
+![image](https://github.com/Mawldor/WoR-content/assets/173509892/6267fe0a-9f64-4131-85d8-dbdac95b54b7)
 
 From here, you're going to want to start off with opening the quick select, and at the very least using the left side option once, and selling all the selected gear. 
 
 ⚠️Some sets, like invig, morale, and possibly some others that I can't think of right now, have some value even if the gear is shit. Make sure you always keep one or two sets of these, even with flat stats, so lock them before doing this. ⚠️
 
-![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/17605502-734d-4251-bea0-564022b99f70)
+![image](https://github.com/Mawldor/WoR-content/assets/173509892/3d36d382-5318-400f-b60c-3897a9681edf)
 
 Ignore the second option for now, we will get back to it later.
 
@@ -35,7 +35,7 @@ Ignore the second option for now, we will get back to it later.
 
 You'll be doing a lot of this over multiple gear/stat combos
 
-![image](https://github.com/Pink-Peanuts/wor-stuff/assets/144652551/e0ead137-b498-4aa1-873c-3cfe36c3b377)
+![image](https://github.com/Mawldor/WoR-content/assets/173509892/e16a0d5f-3c6b-4c39-a9a2-1c4ff70ad271)
 
 
 ### Healers
