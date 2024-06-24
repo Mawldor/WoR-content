@@ -1,13 +1,3 @@
-# Contents
-
-- [Gear Cleansing](#gear-cleansing)
-  - [Preface](#preface)
-  - [First Step](#first-step)
-  - [Second Step](#second-step)
-    - [Healers](#healers)
-    - [Tanks](#tanks)
-    - [Damage Dealers](#damage-dealers)
-  - [Third step](#third-step)
 
 # Gear cleansing
 
