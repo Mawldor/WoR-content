@@ -2,16 +2,18 @@
 
 GB2 has three distinct phases, which each have their own specifics that need to be dealt with. When building your team, you will want to consider all of them. 
 
-First phase -> You need to have some crowd control, in the form of stuns/freezes/knock ups (christ they need to find a better name for this), to be used when he is casting his sawblade. This will reduce his attack. 
+**First phase** -> You need to have some crowd control, in the form of stuns/freezes/knock ups (christ they need to find a better name for this), to be used when he is casting his sawblade. This will reduce his attack. 
 
-Second phase -> **Pure. Unadulterated. Damage.** You need to burst him down as fast as possible, as early as possible, or he will build up too much % resistance.
+**Second phase** -> **Pure. Unadulterated. Damage.** You need to burst him down as fast as possible, as early as possible, or he will build up too much % resistance.
 
-Third phase -> Cleansing. Which, honestly, is terrible, considering there are only like 3 champions that can actually help for this phase. 
+**Third phase** -> Cleansing. Which, honestly, is terrible, considering there are only like 3 champions that can actually help for this phase. 
+
+He will then loop back to the first phase, gain some stats, and everything will start again. As it progresses, his attacks/buffs/debuffs become stronger and more plentiful as well.
 
 **Top chest of first difficulty is less valuable than bottom chest of second** so keep this in mind when making your teams
 
 
-**I will not be listing every champion that could possibly work. I will list the more intesting ones**
+**I will not be listing every champion that could possibly work. I will list the more intesting ones. I will also only list each champion once, even if they fill multiple roles.**
 
 # Gearing
 
@@ -165,6 +167,11 @@ Has stuns on his ult, not sure how good his overall damage is
 
 His damage won't be great, but he fits in any faction, gives a damage boost to everyone, and dishes out some stuns
 
+### Abomination
+![image](https://github.com/Mawldor/WoR-content/assets/173509892/163f16a0-03c8-4138-8d2b-9a1727a504bf)
+
+Does some incidental stuns if you have him A1, and is easy to keep alive, as well as doing reasonable damage. Not the best unit, but does serve some purpose.
+
 
 # Phase 2
 
@@ -172,12 +179,51 @@ Phase 2 is just a pure damage burstdown. You want to kill this phase as fast as 
 
 I won't go into in depth champions here, as it's pretty much the usual cast.
 
-- Silas
-- Any true damage champion for once the boss stacks too many buffs
-- Hex
-- Arrogance
-- Praetus
-- Etc...
+### Silas
+![image](https://github.com/Mawldor/WoR-content/assets/173509892/92842b4d-ff54-4745-bd21-2904fe9e6b4e)
+
+Silas, as usual, does his silas things, and ignores defense, providing massive damage. Nothing new here
+
+### Hex
+![image](https://github.com/Mawldor/WoR-content/assets/173509892/28ebb941-d4c4-4471-8620-fb9a3df29489)
+
+Hex, doing hex things, also brings some pretty solid damage.
+
+### Arrogance
+![image](https://github.com/Mawldor/WoR-content/assets/173509892/fac3136c-805c-4d70-8a92-8ada71070f8c)
+
+Arrogance is definitely one of the better options, especially since he fits nicely in the NM teams.
+
+### Praetus
+![image](https://github.com/Mawldor/WoR-content/assets/173509892/bbcc475e-3204-4173-964c-62190f2c2626)
+
+Do I really need to say much? 
+
+- Lord for best faction for this boss
+- True damage
+- A lot of damage
+- Busted lord ability
+
+I mean, it's Prae Prae
+
+### Eldrr
+![image](https://github.com/Mawldor/WoR-content/assets/173509892/d7ae2cc1-f519-46bf-8872-28accf6585be)
+
+Seems to be able to dish out an impressive amount of damage from what I've seen on some guildmates. Definitely a solid option.
+
+### Falcia
+
+I'm not sure what numbers she is truly pulling, but she does do true damage, which helps for phase 2, if nothing else.
+
+### Nocturne
+
+True damage, infernal, solid.
+
+
+### Kalina
+![image](https://github.com/Mawldor/WoR-content/assets/173509892/4935e180-21dc-466f-b3c9-ea2062167692)
+
+A true damage epic, probably a very good budget option
 
 # Phase 3
 
