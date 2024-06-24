@@ -146,6 +146,19 @@ Something like the below screenshot. Ignore the rest of the map, this was a run 
 
 ![image](https://github.com/Mawldor/WoR-content/assets/173509892/2b9279ba-881d-41e7-ba74-3d5a08cfeef7)
 
+#### Any number of ranged champs
+
+![image](https://github.com/Mawldor/WoR-content/assets/173509892/cfecf9cd-342b-4937-bb59-78cccf2884ab)
+
+You can do something like this as well. If your center area is strong enough, you can cycle between ranged units to take out this top right wave before they start moving. You still need a way to handle the right lone squid that spawns, as any unit here that is not invisible will get killed, but it's an option.
+
+- TF
+- Any of the AoE Marskmen
+- Setram
+- Marri might be able to tempo a bit longer until Idril gets her ult up
+- Theowin/Boreas might be able to tempo and do some damage at the same time
+
+
 
 ## General gearing
 
