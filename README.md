@@ -11,3 +11,8 @@
 ## Bosses
 
 ### [Semrah](GB-2.md)
+
+
+## Void Rift (NM)
+
+### [Torodor Rotation](VR-Torodor.md)
