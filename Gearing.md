@@ -19,7 +19,7 @@ Which brings us to the second point
 
 # Types of content to gear for
 
-There are three main types of gear plans you want going, for your champions in general.
+There are two main types of gear plans you want going, for your champions in general.
 
 ## DPS champions 
 
@@ -63,12 +63,23 @@ The rest is exactly the same order of priority as general PVE
 ![image](https://github.com/Mawldor/WoR-content/assets/173509892/85353bcf-ed26-40bc-a12b-cb503180f912)
 ![image](https://github.com/Mawldor/WoR-content/assets/173509892/91c66d26-1019-4828-93a4-994317431eb6)
 
+## Tanks
 
-### BP dependent content
+There aren't really many subtleties on tank gearing. You have two main categories of tanks. 
+- Ones that use their ults often, and it serves a purpose (Brokkir, Baron, Torodor, etc...)
+- Ones that do not (Really mainly Olague and the shitty dwarves)
 
-Mostly for tide and affiliations for now.
+## Tanks that use ults
 
+Stat priority should be as follows :
 
+HP% > DEF% > Speed > Rage Regen > HP > DEF
+
+### Tanks that don't use ults
+HP% > DEF% > HP > DEF
+
+### Weird semi DPS tanks
+Get a Glacier set with HP% mains, DEF% and ATK% subs, and speed or crit if you can get it in there
 
 
 
