@@ -3,6 +3,7 @@
 ## General tips
 
 ### [Gear Cleansing](Gear-Cleansing.md)
+### [Gearing](Gearing.md)
 
 ## Gear raids
 
@@ -16,3 +17,4 @@
 ## Void Rift (NM)
 
 ### [Torodor Rotation](VR-Torodor.md)
+### [Laseer Rotation](VR-Laseer.md)
