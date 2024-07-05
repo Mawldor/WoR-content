@@ -32,7 +32,7 @@ By far the easiest to gear for. This includes things like campaign, gear raids, 
 
 The general flow and logic is about as follows :
 
-- **180-200% ATK** (Or whatewver main stat that dps is using)
+- **180-200% ATK** (Or whatever main stat that dps is using)
   - The previously listed content is generally fairly low on defense, so pushing ATK too high serves no purpose.
 - **As close to 100%** crit rate as you can get
   - Capping crit is self explanatory
