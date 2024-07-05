@@ -32,11 +32,11 @@ By far the easiest to gear for. This includes things like campaign, gear raids, 
 
 The general flow and logic is about as follows :
 
-- 180-200% ATK (Or whatewver main stat that dps is using)
+- **180-200% ATK** (Or whatewver main stat that dps is using)
   - The previously listed content is generally fairly low on defense, so pushing ATK too high serves no purpose.
-- As close to 100% crit rate as you can get
+- **As close to 100%** crit rate as you can get
   - Capping crit is self explanatory
-- 300+ attack speed
+- **300+** attack speed
   - You want speed to generate ults more often, and hit more often, but this has diminishing returns
 - As much crit damage as you can get after that
   - This is then where you gain the most damage
