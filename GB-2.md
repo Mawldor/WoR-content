@@ -206,7 +206,7 @@ Do I really need to say much?
 
 I mean, it's Prae Prae
 
-### Eldrr
+### Elddr
 ![image](https://github.com/Mawldor/WoR-content/assets/173509892/d7ae2cc1-f519-46bf-8872-28accf6585be)
 
 Seems to be able to dish out an impressive amount of damage from what I've seen on some guildmates. Definitely a solid option.
