@@ -113,7 +113,7 @@
 
 
 - A cyrene in a tank set helps set up the map quicker
-- A Maul right side can cover it, if you have better options it makes it easier
+- A Maul right side can cover it, if you have better options it makes it easier. (Maul facing up)
 - It's critical that the last unit placed be your tank, and that said tank is placed before the boss starts moving
 - As soon as the bsos is down, recall the tank
 
