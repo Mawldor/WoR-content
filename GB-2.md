@@ -17,6 +17,8 @@ He will then loop back to the first phase, gain some stats, and everything will 
 
 # Gearing
 
+⚠️**This may not be correct. I will do some additional testing this week regarding this** ⚠️
+
 Besides a select few champions (like Silas) **You NEED to get as much ATK as possible on your champions**. The boss has high defense, you will do little to no damage if you do not properly gear your team.
 
 Stat priority should be roughly as follows for damage dealers
