@@ -1,3 +1,55 @@
+# Phase 1
+
+## First fight
+
+![image](https://github.com/user-attachments/assets/09f06ed1-f161-4609-b81d-c26e9d856e22)
+
+- The middle row is the only truly safe row, you could use the platforms in the far back behind the tanks if needed as well
+
+## Second fight
+
+![image](https://github.com/user-attachments/assets/efff752d-9fc5-4338-88de-83a7e6fbb8a0)
+
+- Start with top
+- One solid damage dealer and tank
+- Same for bottom
+- Healers in the middle
+- 2 slots remaining for whatever you end up needing as extra
+- A cleanse is nice to have
+
+## Third fight
+
+![image](https://github.com/user-attachments/assets/5498e089-9c2b-4de1-89dd-c58fd5d1ae59)
+
+- Strong single target damage on each side is going to be crucial here, to take down Calypso's shield
+
+![image](https://github.com/user-attachments/assets/c0b915c4-60b3-40ac-937a-5abab50f4c25)
+
+- Toss in some AoE, tanks, healing and rage regen. Ideally place a tank last, so your platform units are mostly safe
+
+## Calypso
+
+![image](https://github.com/user-attachments/assets/5f33d11e-f2b9-4bed-b741-ae884ec45547)
+
+- A marksman for the flyers
+- A fighter for the single lane
+- A single target damage dealer to start on Calypso as soon as she comes in range
+
+![image](https://github.com/user-attachments/assets/00ec7d9e-8b13-40ae-a396-d14948ea3b7e)
+
+- A second damage dealer to deal with the second shield, and then a third, covered by a healer
+- Tank at entrance/HP based healer  to draw Calypsos focus
+
+## Aracha
+
+![image](https://github.com/user-attachments/assets/2816eaf2-913d-44c9-88a0-ad62aa0ab521)
+
+- One damage dealer per side, ideally AoE
+- One tank per side
+- Vortex covering the tanks
+- A cleanser covering everyone
+- One single target damage dealer to be placed and recalled as needed
+
 # Phase 2
 
 ## First crimson guard fight
