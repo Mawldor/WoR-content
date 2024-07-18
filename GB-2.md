@@ -27,7 +27,7 @@ He will then loop back to the first phase, gain some stats, and everything will 
 
 I ran some testing after Ledz mentionned better results with one CDMG piece, and holding ults. 
 
-I did two different gearing options, and two different ways to fight the boss.
+I did two different gearing options, and two different ways to fight the boss. I went up to the start of phase 1 at 3 stacks each time.
 
 Spam ults -> Self explanatory. If an ult is up, it's used, unless it's being held for phase 1.
 
