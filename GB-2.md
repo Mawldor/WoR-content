@@ -17,13 +17,71 @@ He will then loop back to the first phase, gain some stats, and everything will 
 
 # Gearing
 
-⚠️**This may not be correct. I will do some additional testing this week regarding this** ⚠️
+**Turns out I was wrong, you seem to be able to get away with one CDMG piece with roughly the same numbers. Some report better results with one piece CDMG**
 
-Besides a select few champions (like Silas) **You NEED to get as much ATK as possible on your champions**. The boss has high defense, you will do little to no damage if you do not properly gear your team.
+~~Besides a select few champions (like Silas) **You NEED to get as much ATK as possible on your champions**. The boss has high defense, you will do little to no damage if you do not properly gear your team.~~
 
-Stat priority should be roughly as follows for damage dealers
+~~Stat priority should be roughly as follows for damage dealers~~
 
-ATK > Crit rate > Speed > Crit damage > Rage regen
+~~ATK > Crit rate > Speed > Crit damage > Rage regen~~
+
+I ran some testing after Ledz mentionned better results with one CDMG piece, and holding ults. 
+
+I did two different gearing options, and two different ways to fight the boss.
+
+Spam ults -> Self explanatory. If an ult is up, it's used, unless it's being held for phase 1.
+
+Hold ults -> Use the strict minimum ults to take the boss down within the time limit, hold as many as possible to be sure they're available for the vulnerability phase.
+
+What I did exactly was the following 
+
+- Use mainly Praetus/TF/Ferssi in between vulne phases
+- Hold constance and long cycling ults during 0-1 stacks
+- Same for saw & poison on 2 stacks
+- For shield on 2 stacks, one global round of ults, start holding near 30%
+
+One thing to note, I started the first test with Alistair using a skull, not ToT. Which meant I needed to do them all or repeat the tries I already did. I was lazy.
+
+## Attack gear
+
+### Spam Ult
+
+**53k fragments**
+
+![image](https://github.com/user-attachments/assets/2ed97d8b-d797-40c6-8144-be5951923f92)
+![image](https://github.com/user-attachments/assets/e9bbf0b5-6263-48f1-9ad3-808ad8895296)
+
+### Save ults as much as possible
+
+**59k fragments**
+
+![image](https://github.com/user-attachments/assets/a96ebb47-c2f3-49f5-b936-133be66bfc61)
+![image](https://github.com/user-attachments/assets/5215703c-e1c7-4b5b-bec0-5d9e75920575)
+
+## 1 CDMG main Gear
+
+### Spam ult
+
+**52k fragments**
+
+![image](https://github.com/user-attachments/assets/9764ca99-842e-4e3b-a991-9fdf637dc07e)
+![image](https://github.com/user-attachments/assets/367e2ca5-f61b-4ef6-833d-3155d92fe800)
+
+## Save ults as much as possible
+
+**59k fragments**
+
+![image](https://github.com/user-attachments/assets/c0dcdfad-25d9-4b3e-bc79-f01e386db7be)
+![image](https://github.com/user-attachments/assets/808812ab-c895-4228-b7d7-fa8e0214c3d8)
+
+
+## TL;DR
+
+- One CDMG seems comparable to full ATK. Possibly better, but it ended up equal for me
+- Holding ults as much as possible gave me a 13% increase in fragments
+- Credit goes to Ledz for the idea
+
+
 
 # General roster
 
