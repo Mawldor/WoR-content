@@ -28,7 +28,7 @@ The general order of priority when gearing for a dps is Atk (or main stat) > Cri
 
 ### General PVE
 
-By far the easiest to gear for. This includes things like campaign, gear raids, faction trials, guild boss, etc...
+By far the easiest to gear for. This includes things like campaign, gear raids, gear dungeons, faction trials, guild boss 1 & 2, etc...
 
 The general flow and logic is about as follows :
 
@@ -52,7 +52,7 @@ Generally speaking, this means 2 ATK% main right side pieces, and one CDMG one.
 
 ### High defense content
 
-A bit more complicated to gear for, and a lot more gear hungry. This is content like GB2, High gear dungeons, High gear raid 1, Arena, GvG...
+A bit more complicated to gear for, and a lot more gear hungry. This is content like High gear raid 1, Arena, GvG...
 
 The priority order still remains, but there is no longer any reason to put a cap on ATK.
 
