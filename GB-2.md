@@ -191,6 +191,11 @@ The general idea, is that when he starts casting his sawblade attack, each stun/
 
 ## Champions
 
+### Helga
+![image](https://github.com/user-attachments/assets/698de4f6-adf1-4d4a-8404-93c94bddaf54)
+
+Best girl for GB2 phase 1. In a decent build, she should output 7 stuns on her own, and still do some reasonable damage. By far the best pick if your teams are fairly platform heavy, as mine tend to be.
+
 ### Twinfiend
 ![image](https://github.com/Mawldor/WoR-content/assets/173509892/037e1dc0-22c2-41dc-bbc9-2e922ca1c4f8)
 
