@@ -82,4 +82,38 @@ HP% > DEF% > HP > DEF
 Get a Glacier set with HP% mains, DEF% and ATK% subs, and speed or crit if you can get it in there
 
 
+### Good right side sets
+
+- Tempered Will
+- Unshaken Will
+- Guardian
+- Invigoration
+- Morale
+- Any T2+ set
+- Glacier
+- Asclepius
+
+## Crowd control champions
+
+This is mainly for champions like Theowin/Greed/Marri, who have low damage due to their stats, so it's generally best to focus building them with faster attacks and ult cycling
+
+### If you need some damage nonetheless
+
+(Marri will never do damage anyways, don't even bother)
+
+Speed > Rage Regen > ATK% > Crit rate > CDMG
+
+### If you've accepted that their damage will be trash
+
+Speed > Rage Regen > HP% > HP
+
+### Good right side sets
+
+- Mana spring
+- Invigoration
+- Morale
+- Guardian/Tempered will
+
+
+
 
