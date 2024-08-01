@@ -68,4 +68,22 @@ Testing was done as follows :
 
 Most differences are fairly marginal, and could be substantially offset by cycling ults and healing quicker.
 
-It seems best to be at ~150ish healing effect, and then as much ATK as possible (210%+) in terms of raw healing
+It seems best to be at ~150ish healing effect, and then as much ATK as possible (210%+) in terms of raw healing.
+
+The "ideal" balanced build seems to end up being 
+Attack speed amulet, and ideally one Healing effect main and one ATK% main
+
+**This combination seems to offer the best balance of healing, while allowing you to push attack speed into the +400ish speed, after which dimishing returns start really kicking in**
+
+What that would look like on an optimized endgame build is something like this 
+
+![image](https://github.com/user-attachments/assets/6b42bb11-bcf8-4679-a184-d4ff7e073ec5)
+
+Resulting in these heals, and a 1.4 second interval
+
+![image](https://github.com/user-attachments/assets/9116935d-7944-47e4-ab81-73e6b4571bb9)
+
+There is probably some optimizing to be done in terms of the left side gear set.
+
+If using a left side healing effect build, you probably want 2 atk% right side pieces. If you're instead using a left side ATK% set, 1 healing effect right side and 1 atk% right side would probably be better. 
+
