@@ -115,5 +115,13 @@ Speed > Rage Regen > HP% > HP
 - Guardian/Tempered will
 
 
+## Healers
 
+After some testing, the overall priority seems to be about as follows
 
+- ~150 Healing effect
+  - Going much over this seems to have dimishing returns, and it would be better to push for more ATK/Speed/Regen instead
+- **210%+ of the main stat**
+- **As much attack speed as possible**
+- **As much rage regen as possible**
+- HP for content where the healer will take damage
