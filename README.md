@@ -18,3 +18,8 @@
 
 ### [Torodor Rotation](VR-Torodor.md)
 ### [Laseer Rotation](VR-Laseer.md)
+
+
+## Random testing
+
+### [Healing effect & ATK](HE-ATK.md)
