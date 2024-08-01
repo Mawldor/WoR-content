@@ -8,6 +8,7 @@ Testing was done as follows :
 - Screenshot basic heal
 - Move on to next test
 - Tested on this brokkir
+- 2 T1 pieces, 1 T2 piece
 
 ![image](https://github.com/user-attachments/assets/941d87d4-75b3-4349-a13e-4dd479ed8d3e)
 
@@ -38,7 +39,33 @@ Testing was done as follows :
 ![image](https://github.com/user-attachments/assets/bc6ba114-a5be-45d8-85fb-969fef4af61b)
 ![image](https://github.com/user-attachments/assets/a6c82ec6-7b35-4210-8406-65827716a841)
 
+## 1 (Speed or regen) main, 1 ATK% main, 1 HE Main
+![image](https://github.com/user-attachments/assets/97cebf4c-838c-4df9-abe0-e5c6811d5d76)
+![image](https://github.com/user-attachments/assets/d3b6a269-b031-48a5-a2f5-3093cc2fe8ff)
+
+## 1 (Speed or regen) main, 2 ATK% main
+![image](https://github.com/user-attachments/assets/988d4f02-7cc0-4b47-8493-4dcec37a29e8)
+![image](https://github.com/user-attachments/assets/4c35505b-57b3-4a04-8a5e-f0410d6e4693)
+
+## 1 (Speed or regen) main, 2 HE Main
+![image](https://github.com/user-attachments/assets/115e483b-d6df-42d3-9d48-d91d3500edcb)
+![image](https://github.com/user-attachments/assets/36760260-c193-40e2-8b89-3fddd2bee657)
+
+⚠️I did not have a ring that had regen as main, and just Healing effect/atk% as substats, so I tested with CDMG as main ⚠️
+
+## 1 speed, 1 regen, 1 HE main
+![image](https://github.com/user-attachments/assets/af02bc8d-9813-459c-9906-76484e47e488)
+![image](https://github.com/user-attachments/assets/785e866f-9de3-4152-8d0b-b002850c2a42)
+
+## 1 speed, 1 regen, 1 ATK% main
+![image](https://github.com/user-attachments/assets/487ba6e7-734b-4f74-9eca-1c4d02804bbc)
+![image](https://github.com/user-attachments/assets/f142b6a3-5c83-4cf5-9254-28c244a34080)
+
+
+
 
 # Conclusion
+
+Most differences are fairly marginal, and could be substantially offset by cycling ults and healing quicker.
 
 It seems best to be at ~150ish healing effect, and then as much ATK as possible (210%+) in terms of raw healing
