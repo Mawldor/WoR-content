@@ -244,6 +244,15 @@ Phase 2 is just a pure damage burstdown. You want to kill this phase as fast as 
 
 I won't go into in depth champions here, as it's pretty much the usual cast.
 
+The boss has a fixed cycle for his abilities, that goes as follows :
+
+- Earth shatter
+- Aegis
+- Palm strike
+- Aegis
+
+It takes him roughly 43 seconds to cycle between the start of an earth shatter, to the next
+
 ### Silas
 ![image](https://github.com/Mawldor/WoR-content/assets/173509892/92842b4d-ff54-4745-bd21-2904fe9e6b4e)
 
