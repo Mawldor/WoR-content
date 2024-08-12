@@ -1,3 +1,4 @@
+
 # General Overview
 
 GB2 has three distinct phases, which each have their own specifics that need to be dealt with. When building your team, you will want to consider all of them. 
@@ -15,7 +16,9 @@ He will then loop back to the first phase, gain some stats, and everything will 
 
 **I will not be listing every champion that could possibly work. I will list the more intesting ones. I will also only list each champion once, even if they fill multiple roles.**
 
-# Gearing
+<details>
+
+<summary><h1>Gearing</h1></summary> 
 
 **Turns out I was wrong, you seem to be able to get away with one CDMG piece with roughly the same numbers. Some report better results with one piece CDMG**
 
@@ -83,9 +86,15 @@ One thing to note, I started the first test with Alistair using a skull, not ToT
 
 
 
-# General roster
+</details>
 
-## Damage reduction
+<details>
+
+<summary><h1>Overall good roster picks</h1></summary> 
+
+<details>
+
+<summary><h2>Damage reduction</h2></summary> 
 
 This guys hurts. **A lot.** As much as possible, you are always going to want two things going at all times.
 
@@ -133,10 +142,11 @@ Is a great option for damage reduction, since on top of her passive, her ult wil
 Is a good option, has a passive damage reduction to allies in range, and will also dish out some serious healing
 
 
+</details>
 
+<details>
 
-
-## Palm strike
+<summary><h2>Palm strike</h2></summary> 
 
 The palm strike has two parts to it, an AoE component, which will deal damage to all of your champions, and a single target component, which **will target your highest HP champion**. For this reason, I would highly recommend bringing a tank to the party. 
 Ideally, you have your tank in a morale/invigoration set, so they enhance your damage dealer(s) while they're at it
@@ -181,7 +191,17 @@ Baron/Livian/Olague... They're tanks. They'll survive. They probably won't bring
 
 Livian specifically, has a stun, and integrated damage reduction, so she is a little above the rest in terms of value.
 
-# Phase 1
+</details>
+
+
+</details>
+
+
+
+
+<details>
+
+<summary><h1>Phase 1</h1></summary> 
 
 You will need to plan for some units in your team to deal with this phase. One dedicated unit might be enough depending on the unit, but a lot of champions have incidental stuns, that can also help alleviate how much of a dedicated champion you need here.
 
@@ -237,9 +257,12 @@ His damage won't be great, but he fits in any faction, gives a damage boost to e
 
 Does some incidental stuns if you have him A1, and is easy to keep alive, as well as doing reasonable damage. Not the best unit, but does serve some purpose.
 
+</details>
 
-# Phase 2
 
+<details>
+
+<summary><h1>Phase 2</h1></summary> 
 Phase 2 is just a pure damage burstdown. You want to kill this phase as fast as possible. Hold your ults, and pop them as soon as you can once this phase starts
 
 I won't go into in depth champions here, as it's pretty much the usual cast.
@@ -299,8 +322,11 @@ True damage, infernal, solid.
 
 A true damage epic, probably a very good budget option
 
-# Phase 3
+</details>
 
+<details>
+
+<summary><h1>Phase 3</h1></summary> 
 Phase 3 is where a lot of people will (justly) want to throw shit. You need to be able to cleanse the poisons. 
 
 But wait, what cleansing options do we actually have?
@@ -331,5 +357,8 @@ Utter rubbish, but she does have some cleansing (3 champs every 30 seconds, fuck
 ![image](https://github.com/Mawldor/WoR-content/assets/173509892/927940c3-e849-4784-be6d-e7bdf1eabfa2)
 
 Can get the job done, but she will need some serious rage regen, and a supporting regen character. And this is the second best option. It's a joke that we're stuck with such a reduced cast for an entire phase.
+
+</details>
+
 
 
