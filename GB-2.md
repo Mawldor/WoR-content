@@ -18,6 +18,17 @@ He will then loop back to the first phase, gain some stats, and everything will 
 
 <details>
 
+
+
+<summary><h1>Videos</h1></summary> 
+
+- [Lucius testing results](https://youtu.be/_FV90G6IO48)
+- [145k+ run](https://youtu.be/ONXU-MjvLdg)
+
+</details>
+
+<details>
+
 <summary><h1>Gearing</h1></summary> 
 
 **Turns out I was wrong, you seem to be able to get away with one CDMG piece with roughly the same numbers. Some report better results with one piece CDMG**
@@ -257,6 +268,14 @@ His damage won't be great, but he fits in any faction, gives a damage boost to e
 
 Does some incidental stuns if you have him A1, and is easy to keep alive, as well as doing reasonable damage. Not the best unit, but does serve some purpose.
 
+
+## General strategy and tips
+
+- Make sure you hold off on using (or not using in the case of, say, Azhor) ults to have them ready for the saw phases
+- You can make use of incidental/small stun count champions (Torodor/Praetus ability at 2+ stacks/Aracha...) to give some more time to your main stun champion (Helga, Nazeem, etc...) to get their ult back
+- It is sometimes very much worth it to sacrfice damage, in favor of speed/regen, just for your stun champion to be more efficient at controlling this phase
+- You want to, at the very least, reach a solid 7+ stacks on this phase when you want to push fairly high up, and that's with a Ferssi.
+
 </details>
 
 
@@ -322,7 +341,15 @@ True damage, infernal, solid.
 
 A true damage epic, probably a very good budget option
 
+## General strategy and tips
+
+- Holding all of your ults at the end of phase 1, until Semrah stands up at the start of phase 2, will make the phase much easier to pass
+- Vulnerabilities, decrease defense, increased damage taken, bleed, invigoration, inspiration, morale... all of these will eke out a little more damage, and help here, sometimes even if the champion applying them is doing little damage themselves
+- Lucius can be of help here
+
 </details>
+
+
 
 <details>
 
@@ -357,6 +384,12 @@ Utter rubbish, but she does have some cleansing (3 champs every 30 seconds, fuck
 ![image](https://github.com/Mawldor/WoR-content/assets/173509892/927940c3-e849-4784-be6d-e7bdf1eabfa2)
 
 Can get the job done, but she will need some serious rage regen, and a supporting regen character. And this is the second best option. It's a joke that we're stuck with such a reduced cast for an entire phase.
+
+## General strategy and tips
+
+- Hold the first cleanse until after his first **CAST**, do not cleanse immediately as the phase starts
+- Save any other healing ultimates until during the hit he does after applying the first poison stack in between cleanses. This helps immensely
+- Abuse Elowyns wood elf, one less champion to heal for your healers means better survival for everyone
 
 </details>
 
