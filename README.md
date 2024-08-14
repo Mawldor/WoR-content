@@ -23,3 +23,6 @@
 ## Random testing
 
 ### [Healing effect & ATK](HE-ATK.md)
+
+
+## [Channel](https://www.youtube.com/@Mawldor)
