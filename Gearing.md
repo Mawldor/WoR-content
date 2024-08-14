@@ -4,6 +4,8 @@ Depending on what content you're planning on tackling, and barring some exceptio
 
 I'll try to go over them in as much detail as I can, when to use them, and how to set them up
 
+- [Video format](https://youtu.be/w4FXQyBPeRw)
+
 # Gear plans
 
 First and foremost, **take the time to set up, and maintain, your list of gear plans**. These make everything easier. Setup plans for each category of content separately, and finish making the plans for that one, before starting to build for another.
