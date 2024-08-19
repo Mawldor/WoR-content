@@ -1,5 +1,14 @@
 # Gear Raid 3
 
+<summary><h2>Videos</h2></summary> 
+
+- [3-21 Liam/Twinfiend/Idril clear](https://youtu.be/LoJsOlRDdGc)
+- [Budget epic only 3-21](https://youtu.be/jO_Njrkiyuo)
+
+</details>
+
+<details>
+
 ## Preface
 
 GR3 is probably the one that took me the most time, effort, and tryharding, but it is also the one of the three with the most options to tackle it. 
