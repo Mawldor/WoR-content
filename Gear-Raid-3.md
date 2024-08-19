@@ -1,5 +1,8 @@
 # Gear Raid 3
 
+<details>
+
+
 <summary><h2>Videos</h2></summary> 
 
 - [3-21 Liam/Twinfiend/Idril clear](https://youtu.be/LoJsOlRDdGc)
@@ -7,7 +10,6 @@
 
 </details>
 
-<details>
 
 ## Preface
 
