@@ -24,6 +24,7 @@ He will then loop back to the first phase, gain some stats, and everything will 
 
 - [Lucius testing results](https://youtu.be/_FV90G6IO48)
 - [145k+ run](https://youtu.be/ONXU-MjvLdg)
+- [Semrah team building](https://youtu.be/aIheHWoSlW0)
 
 </details>
 
