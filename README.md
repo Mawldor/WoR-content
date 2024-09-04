@@ -23,7 +23,7 @@
 ## Random testing
 
 ### [Healing effect & ATK](HE-ATK.md)
-### [IR vs SA testing](IR-SA-testing.md)
+### [IR vs SA testing](IR-SA-Testing.md)
 
 
 ## [Channel](https://www.youtube.com/@Mawldor)
