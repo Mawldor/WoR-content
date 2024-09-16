@@ -13,11 +13,13 @@ I've seen some claims regarding Inits damage increase being "bugged" and the cha
 
 ### Without Init
 
-![image](https://github.com/user-attachments/assets/51de8c8e-ac5a-4b18-8647-07420df6987f)
+![image](https://github.com/user-attachments/assets/b1c6ab4f-aa07-4bf0-9db2-0803fd9e3d60)
+
 
 ### With Init
 
-![image](https://github.com/user-attachments/assets/8ea62305-5c92-44f4-bd3b-66f93fbe5aa4)
+![image](https://github.com/user-attachments/assets/3c406bc7-57cd-4bf4-9791-2b14151b52c3)
+
 
 The increase is about 20%
 
@@ -26,11 +28,11 @@ The increase is about 20%
 
 ### Without Init
 
-![image](https://github.com/user-attachments/assets/157f4138-0ad9-4b17-9a76-31e1ab5a0ccb)
+![image](https://github.com/user-attachments/assets/9bf2b7bd-d225-46a4-87d4-559379f1335d)
 
 ### With Init
 
-![image](https://github.com/user-attachments/assets/c67024a5-120f-4a2f-9be0-4dfc6e724e4e)
+![image](https://github.com/user-attachments/assets/4b654d79-6a3f-4553-be00-39804f7b2ea7)
 
 The increase is about 20%
 
