@@ -87,3 +87,5 @@ There is probably some optimizing to be done in terms of the left side gear set.
 
 If using a left side healing effect build, you probably want 2 atk% right side pieces. If you're instead using a left side ATK% set, 1 healing effect right side and 1 atk% right side would probably be better. 
 
+TL;DR : Tough shit, the conclusion is like 3 paragraphs
+
