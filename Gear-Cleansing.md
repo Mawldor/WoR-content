@@ -99,7 +99,7 @@ Same logic as above, choose between tank only sets or not
 
 #### Damage sets
 
-- 3 Piece : There are way too many, you know which ones they are
+- 3 Piece : Hell's lament, Infernal Roar, Soulbound Arcana, Ageless wrath, Insight, Wisdom, Doom, Styx, Night terror, Hawk eye, Fracture, Curse, Fatality
 - 2 Piece : Warlord, Vengeance, Whirlwind, Calamity, Might
 
 #### Choosing items to roll
