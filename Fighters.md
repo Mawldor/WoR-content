@@ -1,13 +1,3 @@
-
-<details>
-
-<summary><h3>  </h3></summary> 
-
-
-</details>
-
-
-
 # Fighter artifacts
 
 ## Good
