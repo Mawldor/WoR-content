@@ -75,7 +75,7 @@ There aren't really many subtleties on tank gearing. You have two main categorie
 
 Stat priority should be as follows :
 
-HP% > DEF% > Speed > Rage Regen > HP > DEF
+HP% > DEF% > Rage Regen > Speed > HP > DEF
 
 ### Tanks that don't use ults
 HP% > DEF% > HP > DEF
