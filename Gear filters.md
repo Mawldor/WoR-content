@@ -4,8 +4,9 @@
 
 ## Early end game filter
 
-[MTc4MjM=](https://youtu.be/uMP0YGeqVGY)
+[MTgwMDI=](https://youtu.be/uMP0YGeqVGY)
 
+01/11/2024 - Added all t2+ sets to the CC rule with RR and speed subs
 
 ## Mid game filter
 
