@@ -1,6 +1,8 @@
 ## Late endgame filter
 
-[MTc4MjI=](https://youtu.be/opJ1hwGyPI8)
+[MTgzNDA=](https://youtu.be/opJ1hwGyPI8)
+
+04/11/2024 - Added attack speed mains to AW/Night terror quad rule
 
 ## Early end game filter
 
